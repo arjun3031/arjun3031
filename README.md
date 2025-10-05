@@ -92,9 +92,6 @@ A modern, responsive portfolio showcasing my projects and technical skills.
 ![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjun3031&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun3031&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjun3031&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
