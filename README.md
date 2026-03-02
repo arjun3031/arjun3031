@@ -15,7 +15,6 @@
 Results‑focused **Software Engineer** with expertise in backend development using **.NET Core, ASP.NET, and Python/Django**, combined with growing skills in **AI/ML and Generative AI**.  
 I specialize in **API development, secure coding, and scalable solutions**, and I’m passionate about applying AI to real‑world problems.
 
----
 
 ## 💼 Highlighted Projects
 
