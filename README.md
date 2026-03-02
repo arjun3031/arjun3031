@@ -17,16 +17,6 @@ I specialize in **API development, secure coding, and scalable solutions**, and 
 
 ---
 
-## 🛠️ Technical Skills
-
-- **Backend:** .NET Core, ASP.NET Core Web API, Django, Python, C#  
-- **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3, Bootstrap  
-- **Databases:** SQL Server, MySQL, Oracle SQL, PL/SQL  
-- **Tools:** Git, GitHub, GitLab, Postman, Visual Studio, VS Code  
-- **Concepts:** Microservices, Clean Architecture, Secure Coding, Machine Learning, Deep Learning, Generative AI  
-
----
-
 ## 💼 Highlighted Projects
 
 <table>
