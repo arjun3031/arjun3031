@@ -47,15 +47,7 @@ Responsive portfolio showcasing professional projects, skills, and achievements.
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arjun3031&show_icons=true&theme=tokyonight&hide_border=true" alt="Arjun's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun3031&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
 
 ---
 
