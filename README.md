@@ -1,81 +1,53 @@
 <div align="center">
-  
-# 👋 Hi, I'm Arjun
 
-### 💻 Passionate Developer | 🌐 Full Stack Engineer | ⚡ Cloud & API Specialist
+# 👋 Hi, I'm Arjun K M  
+### 💻 Software Engineer | ⚡ Backend & AI Enthusiast  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjun.yourmail@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/arjun3031/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-k-m-12411022b)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunkmvat@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjun3031)
 
 </div>
 
 ---
 
 ## 🚀 About Me
-
-I'm a dedicated software developer with a passion for building robust, scalable applications. My expertise spans across full-stack development, cloud technologies, and emerging AI/ML domains.
-
-- 💼 **Currently:** .NET Developer specializing in enterprise solutions
-- 🐍 **Experienced in:** Python Django Full Stack Development
-- 🎨 **Skilled at:** Creating intuitive, responsive user interfaces
-- 🗄️ **Proficient with:** RESTful API Development & Oracle Database Management
-- 🤖 **Exploring:** Machine Learning, Deep Learning, and AI Applications
-- 📊 **Future Focus:** Data Science & Analytics
+Results‑focused **Software Engineer** with expertise in backend development using **.NET Core, ASP.NET, and Python/Django**, combined with growing skills in **AI/ML and Generative AI**.  
+I specialize in **API development, secure coding, and scalable solutions**, and I’m passionate about applying AI to real‑world problems.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### **Languages & Frameworks**
-
-<div align="center">
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</div>
-
-### **Database & Tools**
-
-<div align="center">
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
+- **Backend:** .NET Core, ASP.NET Core Web API, Django, Python, C#  
+- **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3, Bootstrap  
+- **Databases:** SQL Server, MySQL, Oracle SQL, PL/SQL  
+- **Tools:** Git, GitHub, GitLab, Postman, Visual Studio, VS Code  
+- **Concepts:** Microservices, Clean Architecture, Secure Coding, Machine Learning, Deep Learning, Generative AI  
 
 ---
 
-## 💼 Featured Projects
+## 💼 Highlighted Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔮 Astrology Prediction Web App
-A full-stack web application leveraging machine learning algorithms for astrological predictions.
+### 🔍 Automated Face Sketch Identification System  
+AI‑powered law enforcement tool that matches facial sketches to photos using **CNNs, Autoencoders, and OpenCV**.  
+- Achieved **87% accuracy** in sketch‑to‑photo matching  
+- Built with **Python, Django, TensorFlow**  
 
-**Tech Stack:** Python, Django, ML Models
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjun3031/Astrology-Prediction-Web-App)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjun3031/Face-Sketch-Identification)
 
 </td>
 <td width="50%">
 
-### 🌐 Portfolio Website
-A modern, responsive portfolio showcasing my projects and technical skills.
-
-**Tech Stack:** HTML, CSS, JavaScript, Bootstrap
+### 🌐 Personal Portfolio Website  
+Responsive portfolio showcasing professional projects, skills, and achievements.  
+- Built with **Python, Django, MySQL, Bootstrap**  
+- Integrated contact form with email notifications  
+- Optimized for SEO and mobile responsiveness  
 
 [![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjun3031/portfolio)
 
@@ -89,39 +61,9 @@ A modern, responsive portfolio showcasing my projects and technical skills.
 
 <div align="center">
 
-<!-- GitHub Stats -->
-![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjun3031&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=arjun3031&show_icons=true&theme=tokyonight&hide_border=true" alt="Arjun's GitHub Stats" />
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun3031&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-
----
-
-## 📈 Current Focus
-
-```javascript
-const arjun = {
-    currentRole: ".NET Developer",
-    learning: ["Machine Learning", "Data Science", "AI"],
-    lookingFor: "Opportunities in Full Stack Development & AI/ML",
-    hobbies: ["Coding", "Problem Solving", "Tech Exploration"]
-};
-```
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjun.yourmail@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjun3031)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun3031&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -129,7 +71,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
-### ⭐ *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### ⭐ *"Code is like humor. When you have to explain it, it's bad."* – Cory House  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arjun3031&color=blueviolet&style=for-the-badge)
 
